@@ -1,0 +1,51 @@
+/*{box-sizing: border-box}
+body {
+font-family: Verdana, sans-serif; margin:0
+}
+.mySlides {display: none}*/
+
+/*img {vertical-align: middle;
+}*/
+body {
+		padding-top:  54px;	
+
+}
+@media (min-width: 992px) {
+	body {
+		padding-top: 56px;
+	}
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+
+
+/* Slideshow container */
+/*.slideshow-container {
+  max-width: 1200px;
+  position: relative;
+  margin: auto;
+ }*/ 
+/*.carousel-inner img {
+      width: auto;*/
+      /*height: 100%;*/
+  }
+
+/*.carousel-item {
+	height: auto;
+	min-height: 100px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: ver;
+    background-size: cover;
+
+.portfolio-item {
+	margin-bottom: 30px;
+}*/
